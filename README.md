@@ -17,8 +17,35 @@ we are uncoversing better ways of developing software by doing it and helping ot
 - Customer collaboration over contract negotiation
 - Responding to change over following a plan.
 
-On the right, we have values, but our true priorities lie with the items on the left.
+On the right, we have values, but our true priorities in Agie lie with the items on the left.
+
+## 12 Principles
+- 
 
 
 
-Refrence: Agile Tutorials: http://bit.ly/agile-tutorials
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+reference: Agile Tutorials: http://bit.ly/agile-tutorials
