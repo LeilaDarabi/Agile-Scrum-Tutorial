@@ -7,4 +7,6 @@
 ## What is Agile Software Developmen
 - It is an umbrella term for the Agile Software Developmen frameworks based on Agile Manifesto Values and 12 principles
 - It is more than Agile Development frameworks like SCRUM and etc.
-- Frane works are SCRUM, KANBAN, Extrme programming 
+- Franeworks such as SCRUM, KANBAN, Extreme programming (XP), TDD, stand-ups etc. 
+A very popular framework is SCRUM.
+
