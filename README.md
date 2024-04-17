@@ -1,4 +1,4 @@
-# Agile-Scrum-Tutorial
+# Agile-Scrum
 ## What is Agile
 - Agile means: Albe to move quickly and easily
 - Agile is the ability to create and reposnd to changes.
@@ -10,3 +10,15 @@
 - Franeworks such as SCRUM, KANBAN, Extreme programming (XP), TDD, stand-ups etc. 
 A very popular framework is SCRUM.
 
+## Agile MAnifesto
+we are uncoversing better ways of developing software by doing it and helping others do it. Through this work we have come to value:
+- Individuals and interactions over processes and tools
+- Working software over comprehensive documnetation
+- Customer collaboration over contract negotiation
+- Responding to change over following a plan.
+
+On the right, we have values, but our true priorities lie with the items on the left.
+
+
+
+Refrence: Agile Tutorials: http://bit.ly/agile-tutorials
