@@ -21,6 +21,7 @@ On the right, we have values, but our true priorities in Agie lie with the items
 
 ## 12 Principles
 1 - The highest priority is to satisfy the customer through early and continuous delivery of software.
+
 2 - Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
 3 - Deliver working software frequently, from a couple of weeks to a couple of months, with a preference for the shorter timescale.
 4 - Business people and developers must work together daily throughout the project.
