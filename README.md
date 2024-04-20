@@ -70,8 +70,24 @@ During each sprint, the team works on completing as much work as possible within
 
 Testing is a crucial part of each sprint, ensuring that the delivered product increment meets quality standards. This might include testing features such as a login button to demonstrate progress.
 
-In summary, Agile development is characterized by its incremental approach, with new work items pulled from the product backlog and released every two weeks. This iterative process allows for continuous improvement and adaptation throughout the development cycle.
+In summary, Agile development is characterized by its incremental approach, with new work items pulled from the product backlog and released every two weeks. This iterative process allows for continuous improvement and adaptation throughout the development cycle. this cycel called Build and the Release.
  
+
+
+## What is SCRUM?
+- SCRUM is one of the Agile Software development framework.
+- SCRUM is the most popular Agile Software development framework.
+- SCRUM is a lightweight framework that helps people teams and organizations generate value through adaptive solutions for complex problems.
+- SCRUM employs an iterative, incremental approach to optimize predictability and to control risk.
+- SCRUM is easy to understand but difficult to master.
+-  SCRUM is founded on empiricism and learn thinking.
+     -  empiricism asserts that knowlwdge come from experience and making decisions based on what is observed.
+     -  Learn thinking reduces waste and focuses on the essentials.
+
+
+  
+
+
 
 
 
