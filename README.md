@@ -48,6 +48,17 @@ On the right, we have values, but our true priorities in Agie lie with the items
 - Agile Software Development frameworks is a specific approach to planning, managing and executing work.
 - Examples: SCRUM, KANBAN, Extreme programming (XP), Scalling Agile Frameworks like SAFe, LeSS, Nexus etc.
  
+## Why Agile Software Development?
+In the waterfall development approach, it follows a phase-by-phase structure, encompassing different stages:
+- Requirements
+- Design
+- Development
+- Testing
+- Maintenance
+
+However, the issue lies in the duration of each phase, as it tends to be extensive. Once the requirements are finalized, only then can we proceed to the design phase, which is based on the requirements documents. Subsequently, the design remains frozen until the requirements documentation is completed. This pattern continues for the other phases as well.
+
+ But is Agile Development approach 
 
 
 
@@ -59,6 +70,7 @@ On the right, we have values, but our true priorities in Agie lie with the items
 
 
 
+-----------------------------------------------------------------------
 Reference: 
 https://agilemanifesto.org/
 Agile Tutorials: http://bit.ly/agile-tutorials
