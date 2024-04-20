@@ -80,12 +80,18 @@ In summary, Agile development is characterized by its incremental approach, with
 - SCRUM is a lightweight framework that helps people teams and organizations generate value through adaptive solutions for complex problems.
 - SCRUM employs an iterative, incremental approach to optimize predictability and to control risk.
 - SCRUM is easy to understand but difficult to master.
--  SCRUM is founded on empiricism and learn thinking.
-     -  empiricism asserts that knowlwdge come from experience and making decisions based on what is observed.
-     -  Learn thinking reduces waste and focuses on the essentials.
+-  SCRUM is founded on empiricism and lean thinking.
+     -  Empiricism asserts that knowlwdge come from experience and making decisions based on what is observed.
+     -  Lean thinking reduces waste and focuses on the essentials. For example, unnecessary meetings.
+ 
 
 
-  
+  ## 3 Pillers of SCRUM
+  - Transparenct
+
+  - Inspection
+
+  - Adaptation
 
 
 
