@@ -57,8 +57,21 @@ In the waterfall development approach, it follows a phase-by-phase structure, en
 - Maintenance
 
 However, the issue lies in the duration of each phase, as it tends to be extensive. Once the requirements are finalized, only then can we proceed to the design phase, which is based on the requirements documents. Subsequently, the design remains frozen until the requirements documentation is completed. This pattern continues for the other phases as well.
+So feedback loop is very long and time consuming.
 
- But is Agile Development approach 
+
+The Agile development approach begins with user stories, which describe how users will interact with the system. These user stories outline the functionality needed, providing a high-level overview.
+
+Following user stories, the team delves into more detailed tasks that must be completed. 
+
+Product delivery in Agile is carried out through iterative phases, known as sprints, typically lasting two to four weeks. The sprint duration depends on team size and capacity.
+
+During each sprint, the team works on completing as much work as possible within the time frame. They prioritize tasks from the product backlog and aim to deliver a working product increment by the end of the sprint.
+
+Testing is a crucial part of each sprint, ensuring that the delivered product increment meets quality standards. This might include testing features such as a login button to demonstrate progress.
+
+In summary, Agile development is characterized by its incremental approach, with new work items pulled from the product backlog and released every two weeks. This iterative process allows for continuous improvement and adaptation throughout the development cycle.
+ 
 
 
 
@@ -73,4 +86,5 @@ However, the issue lies in the duration of each phase, as it tends to be extensi
 -----------------------------------------------------------------------
 Reference: 
 https://agilemanifesto.org/
+
 Agile Tutorials: http://bit.ly/agile-tutorials
